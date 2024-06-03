@@ -17,7 +17,7 @@ This script allows you to download YouTube videos using the Pytube library. It p
 
 #### Installation
 ```bash
-git clone https://github.com/your_username/youtube_downloader.git
+git clone https://github.com/0JeetGupta/youtube-downloader
 cd youtube_downloader
 pip install pytube
 
